@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jotzu25
 - 👀 I’m interested in videogames, coding, basketball.
-- 🌱 I’m currently learning to be a web developer.
+- 🌱 I’m currently learning to be a programmer.
 - 📫 How to reach me: 
      email:jo.tzu23@yahoo.com
 
